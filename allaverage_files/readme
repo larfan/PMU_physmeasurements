@@ -1,0 +1,4 @@
+
+Noch Aufgabe einzelner Programme erklären.
+Und besseres Exception handling bei Eingabe, dass das allaverage Programm nicht abstürzt wenn man mal nichts oder was falsches eingibt. 
+    auch dass man von überall exit eingeben kann, auch wo jetzt return steht

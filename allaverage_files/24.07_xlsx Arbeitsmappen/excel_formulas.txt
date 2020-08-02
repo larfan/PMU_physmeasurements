@@ -1,0 +1,19 @@
+16.07.2020
+ioeneg:
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[COM-3200PROII.xlsx]Stadt1'!$BS$4:$BS$303)
+ionpos:
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[COM-3200PROII.xlsx]Stadt1'!BY4:BY335)
+atmo:
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[AtmoTube.xlsx]Stadt1'!CW3:CW15)
+raspberry:
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[PM2.5-Detector.xlsx]Stadt1'!CQ4:CQ6)
+PM2.5
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[PM2.5-Detector.xlsx]Stadt1'!CQ4:CQ6)
+naneos
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[Naneos-partector2.xlsx]Stadt1'!EU4:EU836)
+naneostemp:
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[Naneos-partector2.xlsx]Stadt1'!FG4:FG836)
+esmog:
+=MITTELWERT('F:\allaverage\xlsx Arbeitsmappen\[Me-3030B.xlsx]Stadt1'!$AE$4:$AG$4)
+windmeter:
+='F:\allaverage\xlsx Arbeitsmappen\[WheatherFlow-windmeter.xlsx]Stadt1'!$AZ$4:$BE$4
